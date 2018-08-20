@@ -1,4 +1,4 @@
 print "hello world"
 print "hello world01"
-print "fixed variant"
+print "fixed variant, additional fix"
 print "hot fix"
